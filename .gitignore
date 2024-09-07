@@ -14,3 +14,4 @@ my_*
 /person.proto
 /person.desc
 /person_pb2.py
+org_code/
